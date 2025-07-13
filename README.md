@@ -1,10 +1,10 @@
-# 📄 Formulario interactivo con consumo de API y DOM dinámico
+#  Formulario interactivo con consumo de API y DOM dinámico
 
 Este proyecto es una práctica de **desarrollo frontend** que combina **HTML, CSS y JavaScript** para integrar y reforzar conceptos clave como:
 
 ---
 
-## ✅ Conceptos abordados
+##  Conceptos abordados
 
 - **Manipulación del DOM**  
   - Creación y modificación dinámica de elementos (inputs, botones, tablas).
@@ -38,7 +38,7 @@ Este proyecto es una práctica de **desarrollo frontend** que combina **HTML, CS
 
 ---
 
-## 📁 Estructura del proyecto
+##  Estructura del proyecto
 
 ```plaintext
 /index.html
